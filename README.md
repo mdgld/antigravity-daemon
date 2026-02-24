@@ -22,7 +22,7 @@ CodexBar detects the Antigravity language server by looking for `language_server
 - Python 3.7+
 - macOS
 - CodexBar installed
-- Antigravity app installed (for initial token extraction)
+- Antigravity app installed (duh)
 
 ## Installation
 
